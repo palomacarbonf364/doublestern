@@ -1,3 +1,3 @@
-module blob_store_21ee73
+module blob_store_5eccc8
 
 go 1.19

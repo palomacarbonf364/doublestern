@@ -1,4 +1,4 @@
-# blob-store-21ee73
+# blob-store-5eccc8
 
 A Go blob store utility.
 
